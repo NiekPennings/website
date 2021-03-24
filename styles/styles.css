@@ -1,0 +1,27 @@
+.bgroundcolor{
+    background-color: #20045a;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+}
+
+#lower-footer{
+    background-color: #120330;
+    text-align: center;
+    color: white;
+}
+
+.row > .col-sm{
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+li > img {
+    color: white;
+}
